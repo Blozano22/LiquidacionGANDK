@@ -1,0 +1,9 @@
+node_modules/
+dist/
+server/data/*.db*
+server/data/respaldo/
+.env
+
+# Excel de origen con datos internos (lo necesario ya está en server/data/seed.json)
+insumos/
+~$*

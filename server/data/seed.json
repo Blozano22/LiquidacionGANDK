@@ -1,0 +1,2078 @@
+{
+ "prendas": [
+  {
+   "codigo": "P001",
+   "nombre": "CAMISA OXFORD MANGA LARGA",
+   "tarifa_interna": 7000,
+   "tarifa_externa": 8000
+  },
+  {
+   "codigo": "P002",
+   "nombre": "BLUSA OXFORD / MANGA 3/4",
+   "tarifa_interna": 7000,
+   "tarifa_externa": 8000
+  },
+  {
+   "codigo": "P003",
+   "nombre": "CAMISA OXFORD MANGA CORTA",
+   "tarifa_interna": 5600,
+   "tarifa_externa": 6600
+  },
+  {
+   "codigo": "P004",
+   "nombre": "CAMISA DACRON BASICA MANGA CORTA",
+   "tarifa_interna": 5000,
+   "tarifa_externa": 6000
+  },
+  {
+   "codigo": "P005",
+   "nombre": "BLUSA OXFORD MANGA CORTA",
+   "tarifa_interna": 5600,
+   "tarifa_externa": 6600
+  },
+  {
+   "codigo": "P006",
+   "nombre": "BLUSA MANGA LARGA MATERNA",
+   "tarifa_interna": 7650,
+   "tarifa_externa": 8650
+  },
+  {
+   "codigo": "P007",
+   "nombre": "CAMISA DRIL MANGA LARGA",
+   "tarifa_interna": 6700,
+   "tarifa_externa": 7700
+  },
+  {
+   "codigo": "P008",
+   "nombre": "CAMISA DRIL MANGA LARGA CON CIERRE",
+   "tarifa_interna": 7500,
+   "tarifa_externa": 8500
+  },
+  {
+   "codigo": "P009",
+   "nombre": "CAMISA JEAN MANGA LARGA TIPO INGENIERO",
+   "tarifa_interna": 7500,
+   "tarifa_externa": 8500
+  },
+  {
+   "codigo": "P010",
+   "nombre": "FILIPINA MANGA LARGA",
+   "tarifa_interna": 7500,
+   "tarifa_externa": 8500
+  },
+  {
+   "codigo": "P011",
+   "nombre": "CAMISA / BLUSA ANTIFLUIDO BASICA",
+   "tarifa_interna": 5200,
+   "tarifa_externa": 6200
+  },
+  {
+   "codigo": "P012",
+   "nombre": "BLUSA SERVICIOS VARIOS CON LETIN",
+   "tarifa_interna": 8000,
+   "tarifa_externa": 9000
+  },
+  {
+   "codigo": "P013",
+   "nombre": "BERMUDA SERVICIOS VARIOS",
+   "tarifa_interna": 4800,
+   "tarifa_externa": 5800
+  },
+  {
+   "codigo": "P014",
+   "nombre": "PIJAMERO SIN BOLSILLOS",
+   "tarifa_interna": 4000,
+   "tarifa_externa": 5000
+  },
+  {
+   "codigo": "P015",
+   "nombre": "PIJAMERO CON BOLSILLOS",
+   "tarifa_interna": 4800,
+   "tarifa_externa": 5800
+  },
+  {
+   "codigo": "P016",
+   "nombre": "PANTALON DAMA MATERNO",
+   "tarifa_interna": 8900,
+   "tarifa_externa": 9900
+  },
+  {
+   "codigo": "P017",
+   "nombre": "PANTALON DAMA/CABALLERO CLASICO (BOLSILLO PICADO)",
+   "tarifa_interna": 10500,
+   "tarifa_externa": 11500
+  },
+  {
+   "codigo": "P018",
+   "nombre": "PIJAMERO CON BOLSILLOS TIPO CARGO",
+   "tarifa_interna": 6000,
+   "tarifa_externa": 7000
+  },
+  {
+   "codigo": "P019",
+   "nombre": "FALDA DE JEAN",
+   "tarifa_interna": 5500,
+   "tarifa_externa": 6500
+  },
+  {
+   "codigo": "P020",
+   "nombre": "SUETER TIPO POLO CON CUELLO Y PUÑO DE LA MISMA TELA",
+   "tarifa_interna": 5000,
+   "tarifa_externa": 6000
+  },
+  {
+   "codigo": "P021",
+   "nombre": "SUETER TIPO POLO CON CUELLO Y PUÑO TEJIDO",
+   "tarifa_interna": 4300,
+   "tarifa_externa": 5300
+  },
+  {
+   "codigo": "P022",
+   "nombre": "BUZO CON CUELLO Y PUÑO TEJIDO",
+   "tarifa_interna": 5000,
+   "tarifa_externa": 6000
+  },
+  {
+   "codigo": "P023",
+   "nombre": "BUZO CON CUELLO Y PUÑO DE LA MISMA TELA",
+   "tarifa_interna": 6200,
+   "tarifa_externa": 7200
+  },
+  {
+   "codigo": "P024",
+   "nombre": "BUZO DRIL (NUTRESA)",
+   "tarifa_interna": 5300,
+   "tarifa_externa": 6300
+  },
+  {
+   "codigo": "P025",
+   "nombre": "BUZO CUELLO REDONDO (VERDE MENTA)",
+   "tarifa_interna": 5000,
+   "tarifa_externa": 6000
+  },
+  {
+   "codigo": "P026",
+   "nombre": "OVEROL DRIL BASICO",
+   "tarifa_interna": 11500,
+   "tarifa_externa": 12500
+  },
+  {
+   "codigo": "P027",
+   "nombre": "OVEROL DRIL CON CIERRE EN BOLSILLOS SUPERIORES",
+   "tarifa_interna": 13500,
+   "tarifa_externa": 14500
+  },
+  {
+   "codigo": "P028",
+   "nombre": "CHALECO TIPO PERIODISTA",
+   "tarifa_interna": 7000,
+   "tarifa_externa": 8000
+  },
+  {
+   "codigo": "P029",
+   "nombre": "CHALECO EN DRIL (HOMECENTER)",
+   "tarifa_interna": 5600,
+   "tarifa_externa": 6600
+  },
+  {
+   "codigo": "P030",
+   "nombre": "CHALECO DRIL RENOVATON",
+   "tarifa_interna": 5700,
+   "tarifa_externa": 6700
+  },
+  {
+   "codigo": "P031",
+   "nombre": "BATA LABORATORIO CON BOLSILLO Y CIERRE",
+   "tarifa_interna": 6500,
+   "tarifa_externa": 7500
+  },
+  {
+   "codigo": "P032",
+   "nombre": "CHALECO ESY",
+   "tarifa_interna": 6500,
+   "tarifa_externa": 7500
+  },
+  {
+   "codigo": "P033",
+   "nombre": "BATA LABORATORIO CON BOLSILLO Y BOTON",
+   "tarifa_interna": 5500,
+   "tarifa_externa": 6500
+  },
+  {
+   "codigo": "P034",
+   "nombre": "DELANTAL BASICO SIN BOLSILLO",
+   "tarifa_interna": 3000,
+   "tarifa_externa": 4000
+  },
+  {
+   "codigo": "P035",
+   "nombre": "DELANTAL SERVICIO GENERAL",
+   "tarifa_interna": 3700,
+   "tarifa_externa": 4700
+  },
+  {
+   "codigo": "P036",
+   "nombre": "CAMISA VIGILANTE MANGA LARGA CON LOGOS Y VELCRO (MADITY)",
+   "tarifa_interna": 7700,
+   "tarifa_externa": 8700
+  },
+  {
+   "codigo": "P037",
+   "nombre": "CAMISA VIGILANTE MANGA LARGA CON LOGOS Y VELCRO (SMART)",
+   "tarifa_interna": 7200,
+   "tarifa_externa": 8200
+  },
+  {
+   "codigo": "P038",
+   "nombre": "PANTALON DRIL BOLSILLO PICADO DAMA",
+   "tarifa_interna": 10500,
+   "tarifa_externa": 11500
+  },
+  {
+   "codigo": "P039",
+   "nombre": "PANTALON DRIL BOLSILLO PICADO CABALLERO",
+   "tarifa_interna": 10500,
+   "tarifa_externa": 11500
+  }
+ ],
+ "adicionales": [
+  {
+   "codigo": "O001",
+   "nombre": "OJAL",
+   "categoria": "Adicional",
+   "tarifa_interna": 68,
+   "tarifa_externa": 68,
+   "activo": 1
+  },
+  {
+   "codigo": "O002",
+   "nombre": "BOTON",
+   "categoria": "Adicional",
+   "tarifa_interna": 68,
+   "tarifa_externa": 68,
+   "activo": 1
+  },
+  {
+   "codigo": "O003",
+   "nombre": "CAMBIO DE TALLIN",
+   "categoria": "Adicional",
+   "tarifa_interna": 200,
+   "tarifa_externa": 200,
+   "activo": 1
+  },
+  {
+   "codigo": "O004",
+   "nombre": "DOBLADILLO DE CAMISA (PAR)",
+   "categoria": "Adicional",
+   "tarifa_interna": 300,
+   "tarifa_externa": 300,
+   "activo": 1
+  },
+  {
+   "codigo": "O005",
+   "nombre": "MONTE DE CHARRETERAS A CAMISAS (PAR)",
+   "categoria": "Adicional",
+   "tarifa_interna": 800,
+   "tarifa_externa": 800,
+   "activo": 1
+  },
+  {
+   "codigo": "O006",
+   "nombre": "PLANCHA",
+   "categoria": "Adicional",
+   "tarifa_interna": 615,
+   "tarifa_externa": 615,
+   "activo": 1
+  },
+  {
+   "codigo": "O007",
+   "nombre": "ATRAQUE",
+   "categoria": "Adicional",
+   "tarifa_interna": 22,
+   "tarifa_externa": 22,
+   "activo": 1
+  },
+  {
+   "codigo": "O008",
+   "nombre": "CINTA REFLECTIVA POR METRO",
+   "categoria": "Adicional",
+   "tarifa_interna": 500,
+   "tarifa_externa": 500,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR001",
+   "nombre": "Sobrehilar vista delantera de bolsillo (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 123,
+   "tarifa_externa": 123,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR002",
+   "nombre": "Dobladillo de relojera",
+   "categoria": "Operación jean",
+   "tarifa_interna": 74,
+   "tarifa_externa": 74,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR003",
+   "nombre": "Monte de relojera a la vista",
+   "categoria": "Operación jean",
+   "tarifa_interna": 111,
+   "tarifa_externa": 111,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR004",
+   "nombre": "Sobrehilar aletilla y aletillon",
+   "categoria": "Operación jean",
+   "tarifa_interna": 98,
+   "tarifa_externa": 98,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR005",
+   "nombre": "Monte de corredera, aletilla y aletillón",
+   "categoria": "Operación jean",
+   "tarifa_interna": 100,
+   "tarifa_externa": 100,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR006",
+   "nombre": "Monte de vista a bolsa (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 123,
+   "tarifa_externa": 123,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR007",
+   "nombre": "Monte de bolsa a pantalón (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 111,
+   "tarifa_externa": 111,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR008",
+   "nombre": "Revoque de bolsillo (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 185,
+   "tarifa_externa": 185,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR009",
+   "nombre": "Jota",
+   "categoria": "Operación jean",
+   "tarifa_interna": 135,
+   "tarifa_externa": 135,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR010",
+   "nombre": "Ensamble de la parte delantera por corredera colita",
+   "categoria": "Operación jean",
+   "tarifa_interna": 271,
+   "tarifa_externa": 271,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR011",
+   "nombre": "Dobladillo de bolsillo trasero (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 123,
+   "tarifa_externa": 123,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR012",
+   "nombre": "Corte de tira de bolsillos traseros",
+   "categoria": "Operación jean",
+   "tarifa_interna": 0,
+   "tarifa_externa": 0,
+   "activo": 0,
+   "nota": "Valor pendiente"
+  },
+  {
+   "codigo": "OPR013",
+   "nombre": "Cierre de bolsa con seguridad (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 86,
+   "tarifa_externa": 86,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR014",
+   "nombre": "Cuadre de bolsa en pantalón (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 185,
+   "tarifa_externa": 185,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR015",
+   "nombre": "Monte de cotilla en codo (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 246,
+   "tarifa_externa": 246,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR016",
+   "nombre": "Monte de bolsillo trasero",
+   "categoria": "Operación jean",
+   "tarifa_interna": 369,
+   "tarifa_externa": 369,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR017",
+   "nombre": "Tiro en codo",
+   "categoria": "Operación jean",
+   "tarifa_interna": 221,
+   "tarifa_externa": 221,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR018",
+   "nombre": "Cierre de lado pantalon stretch",
+   "categoria": "Operación jean",
+   "tarifa_interna": 209,
+   "tarifa_externa": 209,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR019",
+   "nombre": "Pespunte de lado dos agujas (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 184,
+   "tarifa_externa": 184,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR020",
+   "nombre": "Fabricación de pasadores",
+   "categoria": "Operación jean",
+   "tarifa_interna": 100,
+   "tarifa_externa": 100,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR021",
+   "nombre": "Preparación de pretina (union)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 60,
+   "tarifa_externa": 60,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR022",
+   "nombre": "Preparacion de pretina 2",
+   "categoria": "Operación jean",
+   "tarifa_interna": 0,
+   "tarifa_externa": 0,
+   "activo": 0,
+   "nota": "Valor pendiente"
+  },
+  {
+   "codigo": "OPR023",
+   "nombre": "Preparacion para pretina (corte de corredera)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 60,
+   "tarifa_externa": 60,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR024",
+   "nombre": "Pegue de pretina y pasadores",
+   "categoria": "Operación jean",
+   "tarifa_interna": 369,
+   "tarifa_externa": 369,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR025",
+   "nombre": "Corte entre pretinas",
+   "categoria": "Operación jean",
+   "tarifa_interna": 0,
+   "tarifa_externa": 0,
+   "activo": 0,
+   "nota": "Valor pendiente"
+  },
+  {
+   "codigo": "OPR026",
+   "nombre": "Preparación de punta",
+   "categoria": "Operación jean",
+   "tarifa_interna": 0,
+   "tarifa_externa": 0,
+   "activo": 0,
+   "nota": "Valor pendiente"
+  },
+  {
+   "codigo": "OPR027",
+   "nombre": "Cuadre de punta en pretina",
+   "categoria": "Operación jean",
+   "tarifa_interna": 246,
+   "tarifa_externa": 246,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR028",
+   "nombre": "Aplique bordado",
+   "categoria": "Operación jean",
+   "tarifa_interna": 800,
+   "tarifa_externa": 800,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR029",
+   "nombre": "Cierre de pantalón entre piernas (sobrehilo)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 209,
+   "tarifa_externa": 209,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR030",
+   "nombre": "Dobladillo de bota",
+   "categoria": "Operación jean",
+   "tarifa_interna": 209,
+   "tarifa_externa": 209,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR031",
+   "nombre": "Atraques",
+   "categoria": "Operación jean",
+   "tarifa_interna": 460,
+   "tarifa_externa": 460,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR032",
+   "nombre": "Lavado",
+   "categoria": "Operación jean",
+   "tarifa_interna": 0,
+   "tarifa_externa": 0,
+   "activo": 0,
+   "nota": "Valor pendiente"
+  },
+  {
+   "codigo": "OPR033",
+   "nombre": "Limpieza",
+   "categoria": "Operación jean",
+   "tarifa_interna": 400,
+   "tarifa_externa": 400,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR034",
+   "nombre": "Pegue de garra * (tomar tiempo)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 150,
+   "tarifa_externa": 150,
+   "activo": 1,
+   "nota": "Tomar tiempo"
+  },
+  {
+   "codigo": "OPR035",
+   "nombre": "Boton (tomar tiempo)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 70,
+   "tarifa_externa": 70,
+   "activo": 1,
+   "nota": "Tomar tiempo"
+  },
+  {
+   "codigo": "OPR036",
+   "nombre": "Ojal (tomar tiempo)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 70,
+   "tarifa_externa": 70,
+   "activo": 1,
+   "nota": "Tomar tiempo"
+  },
+  {
+   "codigo": "OPR037",
+   "nombre": "Sobrehilo de relojera",
+   "categoria": "Operación jean",
+   "tarifa_interna": 50,
+   "tarifa_externa": 50,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR038",
+   "nombre": "Sobrehilo de fuerza bolsillo (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 100,
+   "tarifa_externa": 100,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR039",
+   "nombre": "Monte de fuerza delantera (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 123,
+   "tarifa_externa": 123,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR040",
+   "nombre": "Pespunte fuerza delantera (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 120,
+   "tarifa_externa": 120,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR041",
+   "nombre": "Sobrehilo de bolsillo trasero (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 100,
+   "tarifa_externa": 100,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR042",
+   "nombre": "Pinzas traseras pantalon dama (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 100,
+   "tarifa_externa": 100,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR043",
+   "nombre": "Cierre lateral pantalon en codo (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 369,
+   "tarifa_externa": 369,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR044",
+   "nombre": "Monte de cotilla en sobrehilo pantalon de dama (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 150,
+   "tarifa_externa": 150,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR045",
+   "nombre": "Pespunte de cotillla pantalon dama (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 180,
+   "tarifa_externa": 180,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR046",
+   "nombre": "Cierre de tiro pantalon Dama",
+   "categoria": "Operación jean",
+   "tarifa_interna": 100,
+   "tarifa_externa": 100,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR047",
+   "nombre": "Pespunte de tiro pantalon Dama",
+   "categoria": "Operación jean",
+   "tarifa_interna": 120,
+   "tarifa_externa": 120,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR048",
+   "nombre": "Pespunte lado jean dama",
+   "categoria": "Operación jean",
+   "tarifa_interna": 200,
+   "tarifa_externa": 200,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR049",
+   "nombre": "Pegue de marquilla",
+   "categoria": "Operación jean",
+   "tarifa_interna": 40,
+   "tarifa_externa": 40,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR050",
+   "nombre": "Pegue instrucciones de lavado",
+   "categoria": "Operación jean",
+   "tarifa_interna": 40,
+   "tarifa_externa": 40,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR051",
+   "nombre": "Pegue de cinta reflectiva (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 1000,
+   "tarifa_externa": 1000,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR052",
+   "nombre": "Pinza de bolsillo tipo cargo (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 130,
+   "tarifa_externa": 130,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR053",
+   "nombre": "Dobladillo de bolsillo tipo cargo (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 123,
+   "tarifa_externa": 123,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR054",
+   "nombre": "Monte de bolsillo tipo cargo (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 369,
+   "tarifa_externa": 369,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR055",
+   "nombre": "Preparacion de tapas bolsillo tipo cargo (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 200,
+   "tarifa_externa": 200,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR056",
+   "nombre": "Monte de tapa bolsillo tipo cargo (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 180,
+   "tarifa_externa": 180,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR057",
+   "nombre": "Preparación de cuello",
+   "categoria": "Operación jean",
+   "tarifa_interna": 582,
+   "tarifa_externa": 582,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR058",
+   "nombre": "Preparación de pechera IZ",
+   "categoria": "Operación jean",
+   "tarifa_interna": 194,
+   "tarifa_externa": 194,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR059",
+   "nombre": "Preparación de pechera DER",
+   "categoria": "Operación jean",
+   "tarifa_interna": 194,
+   "tarifa_externa": 194,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR060",
+   "nombre": "Dobladillo de bolsillo (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 97,
+   "tarifa_externa": 97,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR061",
+   "nombre": "Pegue de bolsillo (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 388,
+   "tarifa_externa": 388,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR062",
+   "nombre": "Preparar chapeta con pespunte (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 485,
+   "tarifa_externa": 485,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR063",
+   "nombre": "Pegue de chapeta (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 291,
+   "tarifa_externa": 291,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR064",
+   "nombre": "Montaje de portañuela (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 194,
+   "tarifa_externa": 194,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR065",
+   "nombre": "Monte de manga sobrehilo",
+   "categoria": "Operación jean",
+   "tarifa_interna": 291,
+   "tarifa_externa": 291,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR066",
+   "nombre": "Pespunte de manga dos agujas",
+   "categoria": "Operación jean",
+   "tarifa_interna": 291,
+   "tarifa_externa": 291,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR067",
+   "nombre": "Cierre de camisa",
+   "categoria": "Operación jean",
+   "tarifa_interna": 388,
+   "tarifa_externa": 388,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR068",
+   "nombre": "Enllone de espalda sobrehilo",
+   "categoria": "Operación jean",
+   "tarifa_interna": 233,
+   "tarifa_externa": 233,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR069",
+   "nombre": "Pespunte de hombro",
+   "categoria": "Operación jean",
+   "tarifa_interna": 233,
+   "tarifa_externa": 233,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR070",
+   "nombre": "Montaje de cuello",
+   "categoria": "Operación jean",
+   "tarifa_interna": 485,
+   "tarifa_externa": 485,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR071",
+   "nombre": "Preparación de puño con pespunte (PAR)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 582,
+   "tarifa_externa": 582,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR072",
+   "nombre": "Montaje de puño",
+   "categoria": "Operación jean",
+   "tarifa_interna": 485,
+   "tarifa_externa": 485,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR073",
+   "nombre": "Cierre entrepierna codo (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 369,
+   "tarifa_externa": 369,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR074",
+   "nombre": "Dobladillo de camisa",
+   "categoria": "Operación jean",
+   "tarifa_interna": 290.82,
+   "tarifa_externa": 290.82,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR075",
+   "nombre": "Pespunte pinza trasera",
+   "categoria": "Operación jean",
+   "tarifa_interna": 100,
+   "tarifa_externa": 100,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR076",
+   "nombre": "Preparacion pretina dama Barranquilla",
+   "categoria": "Operación jean",
+   "tarifa_interna": 300,
+   "tarifa_externa": 300,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR077",
+   "nombre": "Monte de pretina dama Barranquilla",
+   "categoria": "Operación jean",
+   "tarifa_interna": 400,
+   "tarifa_externa": 400,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR078",
+   "nombre": "Pizar pretina dama Barranquilla",
+   "categoria": "Operación jean",
+   "tarifa_interna": 300,
+   "tarifa_externa": 300,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR079",
+   "nombre": "Pespunte pretina dama Barranquilla",
+   "categoria": "Operación jean",
+   "tarifa_interna": 200,
+   "tarifa_externa": 200,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR080",
+   "nombre": "Preparacion bolsillo lateral cargo (par)",
+   "categoria": "Operación jean",
+   "tarifa_interna": 400,
+   "tarifa_externa": 400,
+   "activo": 1,
+   "nota": null
+  },
+  {
+   "codigo": "OPR081",
+   "nombre": "Monte de corredera al pantalon",
+   "categoria": "Operación jean",
+   "tarifa_interna": 195,
+   "tarifa_externa": 195,
+   "activo": 1,
+   "nota": null
+  }
+ ],
+ "trabajadores": [
+  {
+   "codigo": "OI001",
+   "nombre": "ANA GONZALES",
+   "tipo": "INTERNO",
+   "especialidad": "POLOS, CAMISAS, BLUSAS, FILIPINAS, PIJAMEROS",
+   "activo": 1
+  },
+  {
+   "codigo": "OI002",
+   "nombre": "KERLYS MARQUEZ",
+   "tipo": "INTERNO",
+   "especialidad": "OJAL, BOTON, ATRAQUES",
+   "activo": 1
+  },
+  {
+   "codigo": "OI003",
+   "nombre": "YASMIN CONTRERAS",
+   "tipo": "INTERNO",
+   "especialidad": "LIMPIEZA Y EMPAQUE",
+   "activo": 1
+  },
+  {
+   "codigo": "OI004",
+   "nombre": "YELISSA MARTINEZ",
+   "tipo": "INTERNO",
+   "especialidad": "OPERARIA JEAN, LIMPIEZA",
+   "activo": 1
+  },
+  {
+   "codigo": "OI005",
+   "nombre": "LUIS G.",
+   "tipo": "INTERNO",
+   "especialidad": "OPERARIO JEAN",
+   "activo": 1
+  },
+  {
+   "codigo": "OI006",
+   "nombre": "CARMEN V.",
+   "tipo": "INTERNO",
+   "especialidad": "OPERARIO JEAN",
+   "activo": 1
+  },
+  {
+   "codigo": "OI007",
+   "nombre": "YAKELIN",
+   "tipo": "INTERNO",
+   "especialidad": "OPERARIO JEAN",
+   "activo": 1
+  },
+  {
+   "codigo": "OI008",
+   "nombre": "LETICIA ORDOÑEZ",
+   "tipo": "INTERNO",
+   "especialidad": "OPERARIO JEAN",
+   "activo": 1
+  },
+  {
+   "codigo": "OI009",
+   "nombre": "ALEX",
+   "tipo": "INTERNO",
+   "especialidad": "OPERARIO JEAN",
+   "activo": 1
+  },
+  {
+   "codigo": "OI010",
+   "nombre": "SULAIDY SALCEDO",
+   "tipo": "INTERNO",
+   "especialidad": "OPERARIO JEAN",
+   "activo": 1
+  },
+  {
+   "codigo": "OI011",
+   "nombre": "MERLY",
+   "tipo": "INTERNO",
+   "especialidad": "OPERARIO JEAN",
+   "activo": 1
+  },
+  {
+   "codigo": "TE001",
+   "nombre": "JORGE LLANOS",
+   "tipo": "EXTERNO",
+   "especialidad": "PANTALONES CLASICOS, PANTALONES TIPO CARGO, CAMISAS",
+   "activo": 1
+  },
+  {
+   "codigo": "TE002",
+   "nombre": "LUZ MARINA TAMARA",
+   "tipo": "EXTERNO",
+   "especialidad": "PANTALONES CLASICOS, PANTALONES TIPO CARGO, CAMISAS",
+   "activo": 1
+  },
+  {
+   "codigo": "TE003",
+   "nombre": "BEATRIZ BARRIOS",
+   "tipo": "EXTERNO",
+   "especialidad": "POLOS, CAMISAS, BLUSAS, FILIPINAS, PIJAMEROS",
+   "activo": 1
+  },
+  {
+   "codigo": "TE004",
+   "nombre": "MARTINA MORA",
+   "tipo": "EXTERNO",
+   "especialidad": "CAMISAS, BLUSAS, POLOS, PIJAMEROS",
+   "activo": 1
+  },
+  {
+   "codigo": "TE005",
+   "nombre": "VANESSA MERLANO",
+   "tipo": "EXTERNO",
+   "especialidad": "CAMISAS, BLUSAS, POLOS, ANTIFLUIDOS",
+   "activo": 1
+  },
+  {
+   "codigo": "TE006",
+   "nombre": "EMMA VARGAS",
+   "tipo": "EXTERNO",
+   "especialidad": "PRENDAS LIVIANAS, ANTIFLUIDOS",
+   "activo": 1
+  },
+  {
+   "codigo": "TE007",
+   "nombre": "LUCY BAENA",
+   "tipo": "EXTERNO",
+   "especialidad": "PRENDAS LIVIANAS, POLOS, BUZOS",
+   "activo": 1
+  },
+  {
+   "codigo": "TE008",
+   "nombre": "ROSMERY TEHERAN",
+   "tipo": "EXTERNO",
+   "especialidad": "CHAQUETAS JEAN",
+   "activo": 1
+  },
+  {
+   "codigo": "TE009",
+   "nombre": "PAOLA YEISER",
+   "tipo": "EXTERNO",
+   "especialidad": "PRENDAS LIVIANAS, POLOS, BUZOS, CAMISAS",
+   "activo": 1
+  },
+  {
+   "codigo": "TE010",
+   "nombre": "YAMIT ALTMAR",
+   "tipo": "EXTERNO",
+   "especialidad": "GORRAS, SOMBREROS",
+   "activo": 1
+  }
+ ],
+ "operaciones_jc": [
+  {
+   "codigo": "OPR001",
+   "nombre": "Sobrehilar vista delantera de bolsillo (par)",
+   "proceso": "JEAN",
+   "area": "Preparación delantera",
+   "maquina": "Sobrehilo",
+   "valor": 123,
+   "tiempo_estandar": 3.63,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR002",
+   "nombre": "Dobladillo de relojera",
+   "proceso": "JEAN",
+   "area": "Preparación delantera",
+   "maquina": "Dos agujas",
+   "valor": 74,
+   "tiempo_estandar": 6.8,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR003",
+   "nombre": "Monte de relojera a la vista",
+   "proceso": "JEAN",
+   "area": "Preparación delantera",
+   "maquina": "Dos agujas",
+   "valor": 111,
+   "tiempo_estandar": 14.54,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR004",
+   "nombre": "Sobrehilar aletilla y aletillon",
+   "proceso": "JEAN",
+   "area": "Preparación delantera",
+   "maquina": "Sobrehilo",
+   "valor": 98,
+   "tiempo_estandar": 3.34,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR005",
+   "nombre": "Monte de corredera, aletilla y aletillón",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "Plana",
+   "valor": 100,
+   "tiempo_estandar": 44.41,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR006",
+   "nombre": "Monte de vista a bolsa (par)",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "Plana",
+   "valor": 123,
+   "tiempo_estandar": 16.31,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR007",
+   "nombre": "Monte de bolsa a pantalón (par)",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "Plana",
+   "valor": 111,
+   "tiempo_estandar": 16.61,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR008",
+   "nombre": "Revoque de bolsillo (par)",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "Dos agujas",
+   "valor": 185,
+   "tiempo_estandar": 28.57,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR009",
+   "nombre": "Jota",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "Dos agujas",
+   "valor": 135,
+   "tiempo_estandar": 27.7,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR010",
+   "nombre": "Ensamble de la parte delantera por corredera colita",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "Dos agujas",
+   "valor": 271,
+   "tiempo_estandar": 64.79,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR011",
+   "nombre": "Dobladillo de bolsillo trasero (par)",
+   "proceso": "JEAN",
+   "area": "Preparación trasera",
+   "maquina": "Dos agujas",
+   "valor": 123,
+   "tiempo_estandar": 11.49,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR012",
+   "nombre": "Corte de tira de bolsillos traseros",
+   "proceso": "JEAN",
+   "area": "Preparación trasera",
+   "maquina": "Manual",
+   "valor": 0,
+   "tiempo_estandar": 1.86,
+   "nota": "Valor pendiente",
+   "activo": 0
+  },
+  {
+   "codigo": "OPR013",
+   "nombre": "Cierre de bolsa con seguridad (par)",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "Sobrehilo",
+   "valor": 86,
+   "tiempo_estandar": 11.93,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR014",
+   "nombre": "Cuadre de bolsa en pantalón (par)",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "Sobrehilo",
+   "valor": 185,
+   "tiempo_estandar": 24.07,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR015",
+   "nombre": "Monte de cotilla en codo (par)",
+   "proceso": "JEAN",
+   "area": "Parte trasera",
+   "maquina": "Codo",
+   "valor": 246,
+   "tiempo_estandar": 10.63,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR016",
+   "nombre": "Monte de bolsillo trasero",
+   "proceso": "JEAN",
+   "area": "Parte trasera",
+   "maquina": "Dos agujas",
+   "valor": 369,
+   "tiempo_estandar": 82.01,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR017",
+   "nombre": "Tiro en codo",
+   "proceso": "JEAN",
+   "area": "Parte trasera",
+   "maquina": "Codo",
+   "valor": 221,
+   "tiempo_estandar": 9.78,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR018",
+   "nombre": "Cierre de lado pantalon stretch",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Sobrehilo",
+   "valor": 209,
+   "tiempo_estandar": 34.36,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR019",
+   "nombre": "Pespunte de lado dos agujas (par)",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Dos agujas",
+   "valor": 184,
+   "tiempo_estandar": 39.16,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR020",
+   "nombre": "Fabricación de pasadores",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Pasadores",
+   "valor": 100,
+   "tiempo_estandar": 6.91,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR021",
+   "nombre": "Preparación de pretina (union)",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Sobrehilo",
+   "valor": 60,
+   "tiempo_estandar": 2.46,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR022",
+   "nombre": "Preparacion de pretina 2",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Sobrehilo",
+   "valor": 0,
+   "tiempo_estandar": 2.23,
+   "nota": "Valor pendiente",
+   "activo": 0
+  },
+  {
+   "codigo": "OPR023",
+   "nombre": "Preparacion para pretina (corte de corredera)",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Manual",
+   "valor": 60,
+   "tiempo_estandar": 6.53,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR024",
+   "nombre": "Pegue de pretina y pasadores",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Pretinadora",
+   "valor": 369,
+   "tiempo_estandar": 18.32,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR025",
+   "nombre": "Corte entre pretinas",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Manual",
+   "valor": 0,
+   "tiempo_estandar": 1.57,
+   "nota": "Valor pendiente",
+   "activo": 0
+  },
+  {
+   "codigo": "OPR026",
+   "nombre": "Preparación de punta",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Manual",
+   "valor": 0,
+   "tiempo_estandar": 16.2,
+   "nota": "Valor pendiente",
+   "activo": 0
+  },
+  {
+   "codigo": "OPR027",
+   "nombre": "Cuadre de punta en pretina",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Plana",
+   "valor": 246,
+   "tiempo_estandar": 35.15,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR028",
+   "nombre": "Aplique bordado",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Plana",
+   "valor": 800,
+   "tiempo_estandar": 5.2,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR029",
+   "nombre": "Cierre de pantalón entre piernas (sobrehilo)",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Sobrehilo",
+   "valor": 209,
+   "tiempo_estandar": 15.8,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR030",
+   "nombre": "Dobladillo de bota",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Plana",
+   "valor": 209,
+   "tiempo_estandar": 70.81,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR031",
+   "nombre": "Atraques",
+   "proceso": "JEAN",
+   "area": "Acabados",
+   "maquina": "Atraque",
+   "valor": 460,
+   "tiempo_estandar": 182.53,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR032",
+   "nombre": "Lavado",
+   "proceso": "JEAN",
+   "area": "Acabados",
+   "maquina": "Externo",
+   "valor": 0,
+   "tiempo_estandar": null,
+   "nota": "Valor pendiente",
+   "activo": 0
+  },
+  {
+   "codigo": "OPR033",
+   "nombre": "Limpieza",
+   "proceso": "JEAN",
+   "area": "Acabados",
+   "maquina": "Limpiadora",
+   "valor": 400,
+   "tiempo_estandar": 50.86,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR034",
+   "nombre": "Pegue de garra * (tomar tiempo)",
+   "proceso": "JEAN",
+   "area": "Acabados",
+   "maquina": "Plana",
+   "valor": 150,
+   "tiempo_estandar": 11.43,
+   "nota": "Tomar tiempo",
+   "activo": 1
+  },
+  {
+   "codigo": "OPR035",
+   "nombre": "Boton (tomar tiempo)",
+   "proceso": "JEAN",
+   "area": "Acabados",
+   "maquina": "Maquina taches y ojal",
+   "valor": 70,
+   "tiempo_estandar": 13.93,
+   "nota": "Tomar tiempo",
+   "activo": 1
+  },
+  {
+   "codigo": "OPR036",
+   "nombre": "Ojal (tomar tiempo)",
+   "proceso": "JEAN",
+   "area": "Acabados",
+   "maquina": "Maquina taches y ojal",
+   "valor": 70,
+   "tiempo_estandar": null,
+   "nota": "Tomar tiempo",
+   "activo": 1
+  },
+  {
+   "codigo": "OPR037",
+   "nombre": "Sobrehilo de relojera",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "Sobrehilo",
+   "valor": 50,
+   "tiempo_estandar": 2.49,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR038",
+   "nombre": "Sobrehilo de fuerza bolsillo (PAR)",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "Sobrehilo",
+   "valor": 100,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR039",
+   "nombre": "Monte de fuerza delantera (PAR)",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "Plana",
+   "valor": 123,
+   "tiempo_estandar": 10.99,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR040",
+   "nombre": "Pespunte fuerza delantera (PAR)",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "Dos agujas",
+   "valor": 120,
+   "tiempo_estandar": 26.39,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR041",
+   "nombre": "Sobrehilo de bolsillo trasero (PAR)",
+   "proceso": "JEAN",
+   "area": "Parte trasera",
+   "maquina": "Sobrehilo",
+   "valor": 100,
+   "tiempo_estandar": 4.45,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR042",
+   "nombre": "Pinzas traseras pantalon dama (PAR)",
+   "proceso": "JEAN",
+   "area": "Parte trasera",
+   "maquina": "Plana",
+   "valor": 100,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR043",
+   "nombre": "Cierre lateral pantalon en codo (PAR)",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Codo",
+   "valor": 369,
+   "tiempo_estandar": 27.91,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR044",
+   "nombre": "Monte de cotilla en sobrehilo pantalon de dama (PAR)",
+   "proceso": "JEAN",
+   "area": "Parte trasera",
+   "maquina": "Sobrehilo",
+   "valor": 150,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR045",
+   "nombre": "Pespunte de cotillla pantalon dama (PAR)",
+   "proceso": "JEAN",
+   "area": "Parte trasera",
+   "maquina": "Dos agujas",
+   "valor": 180,
+   "tiempo_estandar": 17.78,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR046",
+   "nombre": "Cierre de tiro pantalon Dama",
+   "proceso": "JEAN",
+   "area": "Parte trasera",
+   "maquina": "Sobrehilo",
+   "valor": 100,
+   "tiempo_estandar": 13.13,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR047",
+   "nombre": "Pespunte de tiro pantalon Dama",
+   "proceso": "JEAN",
+   "area": "Parte trasera",
+   "maquina": "Dos agujas",
+   "valor": 120,
+   "tiempo_estandar": 22.02,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR048",
+   "nombre": "Pespunte lado jean dama",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Plana",
+   "valor": 200,
+   "tiempo_estandar": 13.03,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR049",
+   "nombre": "Pegue de marquilla",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Plana",
+   "valor": 40,
+   "tiempo_estandar": 36.02,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR050",
+   "nombre": "Pegue instrucciones de lavado",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Plana",
+   "valor": 40,
+   "tiempo_estandar": 7.29,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR051",
+   "nombre": "Pegue de cinta reflectiva (PAR)",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "Plana",
+   "valor": 1000,
+   "tiempo_estandar": 54.25,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR052",
+   "nombre": "Pinza de bolsillo tipo cargo (par)",
+   "proceso": "JEAN",
+   "area": "Preparación delantera",
+   "maquina": "Plana",
+   "valor": 130,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR053",
+   "nombre": "Dobladillo de bolsillo tipo cargo (par)",
+   "proceso": "JEAN",
+   "area": "Preparación delantera",
+   "maquina": "",
+   "valor": 123,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR054",
+   "nombre": "Monte de bolsillo tipo cargo (par)",
+   "proceso": "JEAN",
+   "area": "Preparación delantera",
+   "maquina": "",
+   "valor": 369,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR055",
+   "nombre": "Preparacion de tapas bolsillo tipo cargo (par)",
+   "proceso": "JEAN",
+   "area": "Preparación delantera",
+   "maquina": "",
+   "valor": 200,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR056",
+   "nombre": "Monte de tapa bolsillo tipo cargo (par)",
+   "proceso": "JEAN",
+   "area": "Preparación delantera",
+   "maquina": "",
+   "valor": 180,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR057",
+   "nombre": "Preparación de cuello",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 582,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR058",
+   "nombre": "Preparación de pechera IZ",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "",
+   "valor": 194,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR059",
+   "nombre": "Preparación de pechera DER",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "",
+   "valor": 194,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR060",
+   "nombre": "Dobladillo de bolsillo (PAR)",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "",
+   "valor": 97,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR061",
+   "nombre": "Pegue de bolsillo (PAR)",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "",
+   "valor": 388,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR062",
+   "nombre": "Preparar chapeta con pespunte (PAR)",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "",
+   "valor": 485,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR063",
+   "nombre": "Pegue de chapeta (PAR)",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "",
+   "valor": 291,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR064",
+   "nombre": "Montaje de portañuela (PAR)",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 194,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR065",
+   "nombre": "Monte de manga sobrehilo",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 291,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR066",
+   "nombre": "Pespunte de manga dos agujas",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 291,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR067",
+   "nombre": "Cierre de camisa",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 388,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR068",
+   "nombre": "Enllone de espalda sobrehilo",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 233,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR069",
+   "nombre": "Pespunte de hombro",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 233,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR070",
+   "nombre": "Montaje de cuello",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 485,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR071",
+   "nombre": "Preparación de puño con pespunte (PAR)",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 582,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR072",
+   "nombre": "Montaje de puño",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 485,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR073",
+   "nombre": "Cierre entrepierna codo (par)",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 369,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR074",
+   "nombre": "Dobladillo de camisa",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 290.82,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR075",
+   "nombre": "Pespunte pinza trasera",
+   "proceso": "JEAN",
+   "area": "Parte trasera",
+   "maquina": "",
+   "valor": 100,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR076",
+   "nombre": "Preparacion pretina dama Barranquilla",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 300,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR077",
+   "nombre": "Monte de pretina dama Barranquilla",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 400,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR078",
+   "nombre": "Pizar pretina dama Barranquilla",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 300,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR079",
+   "nombre": "Pespunte pretina dama Barranquilla",
+   "proceso": "JEAN",
+   "area": "Terminación",
+   "maquina": "",
+   "valor": 200,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR080",
+   "nombre": "Preparacion bolsillo lateral cargo (par)",
+   "proceso": "JEAN",
+   "area": "Preparación",
+   "maquina": "",
+   "valor": 400,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  },
+  {
+   "codigo": "OPR081",
+   "nombre": "Monte de corredera al pantalon",
+   "proceso": "JEAN",
+   "area": "Parte delantera",
+   "maquina": "",
+   "valor": 195,
+   "tiempo_estandar": null,
+   "nota": null,
+   "activo": 1
+  }
+ ],
+ "parametros": {
+  "costo_minuto": 191.73761979166667
+ }
+}

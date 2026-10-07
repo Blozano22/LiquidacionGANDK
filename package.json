@@ -1,0 +1,12 @@
+{
+  "name": "liquidacion-gandk",
+  "private": true,
+  "scripts": {
+    "instalar": "npm install && npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently -n api,web -c blue,yellow \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "reset-db": "npm run reset --prefix server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
