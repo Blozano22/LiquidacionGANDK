@@ -77,11 +77,16 @@ cd /var/www/liquidacion
 git pull
 npm run instalar
 BASE_PATH=/liquidacion/ npm run build --prefix client   # el prefijo va en el build
-pm2 restart liquidacion
+pm2 restart liquidacion        # la primera vez: pm2 start ecosystem.config.cjs
 ```
 
 `BASE_PATH` es imprescindible: sin él, el cliente pediría `/api/...` en la raíz
 del dominio, donde responde la **otra** aplicación.
+
+El proceso se arranca con `ecosystem.config.cjs`, que fija `cwd` en `server/`.
+Importa: dotenv lee el `.env` del directorio de trabajo, así que arrancarlo
+desde la raíz del repo dejaría la app **sin `AUTH_BASE`** — es decir, sin
+autenticación y escuchando en todas las interfaces.
 
 Configuración en `server/.env` (ver `server/.env.example`):
 

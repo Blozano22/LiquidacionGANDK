@@ -1,3 +1,8 @@
+// Primero que nada: auth.js lee process.env al cargarse, y en ESM los imports
+// se evalúan en orden, así que el .env tiene que estar leído antes que él.
+// Si no existe el archivo, dotenv no se queja: es justo el caso de local.
+import 'dotenv/config';
+
 import express from 'express';
 import cors from 'cors';
 import { existsSync } from 'node:fs';
